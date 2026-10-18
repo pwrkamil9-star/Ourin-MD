@@ -172,8 +172,9 @@ const config = {
     // SESSION
     // ═══════════════════════════════════════════════════════════════
     session: {
-        path: './sessions',
-        usePairingCode: true
+    path: './sessions',
+    usePairingCode: true,
+    phoneNumber: '6285182505179'
     },
 
     // ═══════════════════════════════════════════════════════════════
